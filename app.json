@@ -1,0 +1,11 @@
+{
+  "name": "mope3-test",
+  "description": "Mope.io testing",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "repository": "https://github.com/MrSpikeYT/mopetesting"
+}
