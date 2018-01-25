@@ -2,7 +2,7 @@
   "name": "mope3-test",
   "description": "Mope.io testing",
   "scripts": {
-    "postdeploy": "node ."
+    "start": "node start"
   },
   "repository": "https://github.com/MrSpikeYT/mopetesting"
 }
